@@ -79,3 +79,4 @@
 - [`use-substate`](https://github.com/philipp-spiess/use-substate) React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
 - [`use-undo`](https://github.com/xxhomey19/use-undo) React hook to implement Undo and Redo functionality.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
+– [`persistence-hooks`](https://github.com/harrysolovay/persistence-hooks) React hooks that blur the line between state and persistent data
